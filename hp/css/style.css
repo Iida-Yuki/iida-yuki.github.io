@@ -1,0 +1,181 @@
+*{
+	margin: 0px;
+
+	padding: 0px;
+
+}
+
+
+/* header*/
+
+.clearfix::after{
+	content: ""
+	display: block;
+	clear: both;
+}
+
+header{
+
+	background-color: #F4AFAB;
+}
+
+.container{
+
+	height: 180px;
+	width: 1100px;
+	margin: 0 auto;
+
+
+}
+
+
+.hp-title{
+
+	font-size: 56px;
+	float: left;
+	height: 180px;
+	color: #F3F9D2;
+	width: 450px;
+	line-height: 180px;
+	font-family: 'Fredoka One', cursive;
+
+}
+
+
+nav{
+
+	float: right;
+}
+
+
+li{
+	color: white;
+	font-size: 18px;
+	list-style: none;
+	line-height: 210px;
+	float: left;
+	padding-left: 50px;
+
+}
+
+
+/* main　contents*/
+
+.clearfix::after{
+	content: ""
+	display: block;
+	clear: both;
+}
+
+.top-box{
+
+	height: 400px;
+	width: 1100px;
+	margin-top: 100px; 
+}
+
+.main{
+
+	height: 400px;
+	width: 1100px;
+	box-align: center;
+	margin: 0 auto;
+
+
+}
+
+
+.top-img{
+    
+    height: 300px;
+	width: 550px;
+
+	
+	line-height: 300px;
+	float: left;
+
+
+}
+
+
+.maintext{
+
+
+	height: 300px;
+	width: 550px;
+	text-align: center;
+	background-color: white;
+
+	color: #F9627D;
+	font-size: 23px;
+	line-height: 300px;
+	float: right;
+	text-align: center;
+	
+}
+
+
+/* sab-main*/
+
+.sab-main{
+	height: 500px;
+	width: 1100px;
+	margin: 0 auto;
+
+
+}
+
+
+
+.kaisetu{
+    
+    height: 450px;
+	width: 1092px;
+	float: left;
+
+	border-style: dotted;
+	border-color: #E75A7C;
+	border-width: 4px;
+
+	color: black;
+
+
+	}
+
+.naka{
+	height: 420px;
+	width: 600px;
+	margin: 25px;
+	font-size: 16px;
+	color: #937666;
+	float: left;
+
+}
+
+.sabu-img{
+
+	float: right;
+	height: 450px;
+	width: 432px;
+
+}
+
+.footer{
+
+	background-color: #C1ABA6;
+	margin-top: 50px;
+}
+
+.footer-box{	
+
+	height: 120px;
+	width: 1100px;
+	color: #F3F9D2;
+	line-height: 130px;
+	margin:0 auto;
+}
+
+.text-foo{
+	float: right;
+
+}
